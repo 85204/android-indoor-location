@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_refresh">auto refresh</string>
+    <string name="title_activity_set_location">SetLocationActivity</string>
+    <string name="action_import">import data</string>
+    <string name="action_export">export data</string>
+    <string name="bottom_Get_Location">get location</string>
+    <string name="bottom_View_Added_Location">view added location</string>
+</resources>
